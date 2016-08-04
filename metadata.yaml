@@ -1,0 +1,38 @@
+_repo: The-Duke-s-Children_3622
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The Duke's Children is a novel by Anthony Trollope, first published\
+  \ in 1879 as a serial in All the Year Round. It is the sixth and final novel of\
+  \ the Palliser series.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3622'
+  wikidata: Q7731161
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'Palliser, Plantagenet (Fictitious character) -- Fiction'
+- !lcsh 'Political fiction'
+- !lcc 'PR'
+- !lcsh 'Prime ministers -- Family relationships -- Fiction'
+- !lcsh 'Widowers -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Parent and adult child -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: The Duke's Children
+url: http://www.gutenberg.org/ebooks/3622
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Duke%27s_Children
